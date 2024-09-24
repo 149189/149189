@@ -1,6 +1,10 @@
 # Connect with me :speech_balloon:
 
-<p align="center">
-<a href="https://stackoverflow.com/users/27155635/kaustubh-ratwadkar"><img src="https://github-readme-stackoverflow.vercel.app/?userID=8079868" /></a>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=numandev1">
-</p>
+
+### About Me
+- 🚀 **TensorFlow Developer with 1 Year of Experience**: Focused on developing cutting-edge machine learning solutions.
+- ⚙️ **Expertise in Model Optimization**: Skilled at fine-tuning model performance for superior results.
+- 🧠 **Advanced Architectures**: Experience in implementing and experimenting with complex neural network architectures.
+- 🔄 **Specialization in Transfer Learning**: Proficient in leveraging pre-trained models to overcome challenges with limited data.
+- 🧩 **Adaptable Problem Solver**: Thrive in solving complex, real-world problems using innovative AI techniques.
+- 💡 **Passionate About AI**: Continuously staying updated with the latest trends and advancements in the field of artificial intelligence.
