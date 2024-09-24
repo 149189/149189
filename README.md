@@ -1,10 +1,6 @@
-- 👋 Hi, I’m Kaustubh Ratwadkar
-- 👀 I’m interested in Deep Learning 
-- 🌱 I’m currently learning Tensorflow
-- 💞️ I’m looking to collaborate on Open Source projects
-- My Gmail is kaustubhpy@gmail.com and my contact is +91 8657092872
+# Connect with me :speech_balloon:
 
-<!---
-149189/149189 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+<a href="https://stackoverflow.com/users/27155635/kaustubh-ratwadkar"><img src="https://github-readme-stackoverflow.vercel.app/?userID=8079868" /></a>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=numandev1">
+</p>
